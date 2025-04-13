@@ -755,7 +755,8 @@ main {
 .con2 {
     position: absolute;
     top: 120px;
-    left: 303px;
+    left: 50%;
+    transform: translateX(-50%);
 }
 .black_label_txt  p:nth-child(1) {
     font: 54px Noto Sans KR;
@@ -844,7 +845,8 @@ main {
 .con3 {
     position: absolute;
     top: 120px;
-    left: 616px;
+    left: 50%;
+    transform: translateX(-50%);
     opacity: 0;
 }
 .black_label_txt2  p:nth-child(1) {
